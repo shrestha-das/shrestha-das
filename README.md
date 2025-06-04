@@ -1,4 +1,4 @@
-- ✯ Hi, I’m @shrestha-das
+- ✯ Hi, I’m @shrestha-das from India
 - ✯ I’m interested in WebDev, Blockchain, AI
 - ✯ Fun fact: I'm college-dropout
 
