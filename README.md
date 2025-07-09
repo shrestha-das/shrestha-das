@@ -1,5 +1,5 @@
 - ✯ Hi, I’m @shrestha-das from India
-- ✯ I’m an aspiring Frontend Developer
+- ✯ I’m an aspiring Developer
 - ✯ Fun fact: I'm college-dropout
 
 <!---
