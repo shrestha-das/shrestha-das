@@ -1,6 +1,6 @@
-###Hello World!
+###Hello World!###
 
-##It's me, Shrestha from India
+##It's me, Shrestha from India##
 
 - I'm a full-stack dev/ blockchain dev(solidity)
 - My tech-stack : MERN, JavaScript, Solidity, Foundry, Basic- C,C++,Python
