@@ -1,7 +1,11 @@
-- ✯ Hi, I’m @shrestha-das from India
-- ✯ I’m an aspiring Developer
-- ✯ Fun fact: I'm college-dropout
-- [![Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrestha-das)](https://github.com/shrestha-das/github-readme-stats)
+###Hello World!
+
+##It's me, Shrestha from India
+
+- I'm a full-stack dev/ blockchain dev(solidity)
+- My tech-stack : MERN, JavaScript, Solidity, Foundry, Basic- C,C++,Python
+- A fun-fact about me ! I've dropped out of college in 1st sem. After then I learnt everything on my own
+
 
 <!---
 shrestha-das/shrestha-das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
