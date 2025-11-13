@@ -4,7 +4,7 @@
 
 - I'm a full-stack dev/ blockchain dev
 - My tech-stack : MERN, JavaScript, Solidity, Foundry, Basic- C, C++, Python etc.
-- A fun-fact about me! I've dropped out of college in 1st sem. Thereafter I've learnt development on my own
+- A fun-fact about me! I've dropped out of college in 1st sem. Thereafter I've learnt programming on my own
 
 
 <!---
