@@ -2,8 +2,8 @@
 
 ## It's me, Shrestha from India
 
-- I'm a full-stack dev/ blockchain dev, DeFi-Enthusiast 
-- My tech-stack : MERN, JavaScript, Solidity, Foundry, Basic- C, C++, Python etc.
+- I'm an aspiring blockchain dev, DeFi-Enthusiast 
+- My tech-stack : JavaScript, Solidity, Foundry, Basic- C, C++, Python etc.
 - A fun-fact about me! I've dropped out of college in 1st sem. Thereafter I've learnt programming on my own
 
 
